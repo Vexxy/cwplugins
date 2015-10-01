@@ -1,5 +1,5 @@
 # Cider Two spawn with hands tied fix
 
-The fix for spawning with you hands tied in Clockwork: Cider Two.
+The fix for spawning you with your hands tied in Clockwork's Cider Two schema.
 
 Created by SomeSortOfDuck.
