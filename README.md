@@ -1,2 +1,11 @@
-# cw(hl2rp)plugins
-Generic and simple plugins you probably need in your HL2RP server. For Kurozael and Cloud Sixteen's CW: HL2RP schema. 
+#cwplugins
+Essential plugins for HL2RP and other Clockwork schemas. Clockwork and the Clockwork schemas were created by Kurozael/Conna Wiles.
+
+# HL2RP
+- Better Quiz
+- MPFv5 Animations
+- MPF and Dispatch Voice Commands
+
+# Cider Two
+- Spawn with hands tied fix (created by SomeSortOfDuck/duck)
+
