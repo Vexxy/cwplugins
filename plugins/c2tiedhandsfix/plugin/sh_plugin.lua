@@ -1,0 +1,1 @@
+Clockwork.player:AddCharacterData("tied", NWTYPE_NUMBER, 0, true);
