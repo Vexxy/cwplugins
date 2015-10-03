@@ -1,5 +1,7 @@
-# How to install
+# How to Install
 
-Just copy these folders to /gamemodes/[schema]/plugins/
+Just copy your intended plugin folder to /gamemodes/[schema]/plugins/
 
-Replace [schema] with your schema, ie. cwhl2rp
+Replace [schema] with your schema, ie. cwhl2rp.
+
+The list of plugins and their compatible schemas are on the last page.
